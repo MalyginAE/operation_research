@@ -1,0 +1,1 @@
+CMakeLists.txt not found in C:\Users\andre\CLionProjects\max_clique_problem_Grdy_rnd Select CMakeLists.txt
